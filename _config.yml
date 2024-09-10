@@ -115,7 +115,7 @@ feed_show_excerpt: true
 feed_show_tags: true
 
 # Add a search button to the navbar
-post_search: true
+post_search: false
 
 # Add a button in the footer to edit the current page. Only works if your website is hosted on GitHub
 edit_page_button: true
@@ -134,11 +134,11 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-page-col: "#FFFFFF"
+page-col: "#f1ecd1"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-navbar-col: "#EAEAEA"
+navbar-col: "#f1ecd1"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
 footer-col: "#EAEAEA"
